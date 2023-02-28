@@ -43,5 +43,5 @@ Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstra
 
 El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
 
-##Link a Demo
+## Link a Demo
 Para visualizar mi proyecto terminado, puedes entrar al siguiente link: [Portafolio de Monivette](https://portafolio1-monivettevergara.netlify.app/)
